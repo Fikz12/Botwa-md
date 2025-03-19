@@ -15,9 +15,9 @@ const { isUrl, getGroupAdmins, generateMessageTag, getBuffer, getSizeMedia, fetc
 const { jidNormalizedUser, proto, getBinaryNodeChildren, getBinaryNodeChild, generateMessageIDV2, jidEncode, encodeSignedDeviceIdentity, generateWAMessageContent, generateForwardMessageContent, prepareWAMessageMedia, delay, areJidsSameUser, extractMessageContent, generateMessageID, downloadContentFromMessage, generateWAMessageFromContent, jidDecode, generateWAMessage, toBuffer, getContentType, getDevice } = require('@whiskeysockets/baileys');
 
 /*
-	* Create By Naze
-	* Follow https://github.com/nazedev
-	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
+	* Create By fikz 
+	* Follow https://github.com/fikz12 
+	* Whatsapp : https://whatsapp.com/channel/0029VatieCg3gvWclrbGRN1D
 */
 
 async function GroupUpdate(naze, update, store, groupCache) {
