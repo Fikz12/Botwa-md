@@ -2,9 +2,9 @@ process.on('uncaughtException', console.error)
 process.on('unhandledRejection', console.error)
 
 /*
-	* Create By Naze
-	* Follow https://github.com/nazedev
-	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
+	* Create By Fikz 
+	* Follow https://github.com/Fikz12
+	* Whatsapp : https://whatsapp.com/channel/0029VatieCg3gvWclrbGRN1D
 */
 
 require('./settings');
