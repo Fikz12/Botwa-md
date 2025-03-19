@@ -2,17 +2,15 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 /*
-	* Create By Naze
-	* Follow https://github.com/nazedev
-	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
-*/
-
+	* Create By fikz
+	* Follow https://github.com/fikz12
+	* Whatsapp : https://whatsapp.com/channel/0029VatieCg3gvWclrbGRN1D
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188'] //['628','628'] 2 owner
+global.owner = ['6287829995313','6282189966179'] //['628','628'] 2 owner
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.author = 'Fikzdev'
+global.botname = 'Fikz Bot'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
@@ -28,10 +26,10 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/B5qJIwZHm4VEYZJQE6iMwy',
-	ch: '120363250409960161@newsletter',
+	yt: '',
+	gh: 'https://github.com/fikz12',
+	gc: 'https://whatsapp.com/channel/0029VatieCg3gvWclrbGRN1D',
+	ch: '120363372909544539@newsletter',
 }
 
 global.limit = {
@@ -47,7 +45,7 @@ global.uang = {
 }
 
 global.mess = {
-	key0: 'Apikey mu telah habis silahkan kunjungi\nhttps://my.hitori.pw',
+	key0: 'Apikey mu telah habis silahkan kunjungi https://github.com/fikz12',
 	owner: 'Fitur Khusus Owner!',
 	admin: 'Fitur Khusus Admin!',
 	botAdmin: 'Bot Bukan Admin!',
